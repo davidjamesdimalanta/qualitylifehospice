@@ -118,7 +118,7 @@ function Home(){
           <span
           className="font-bold text-lg pt-4">Quality Life Hospice</span>
           <span>4555 Highway 6, Suite T8, Sugarland, TX 77478</span>
-          <span>Main Phone: 832 919-6688</span>
+          <span>Main Phone: (281) 207 6067</span>
         </div>
         </>
     )
