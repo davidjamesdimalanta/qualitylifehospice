@@ -119,12 +119,12 @@ function App() {
        </div>
        <div className="w-full h-auto bg-gray-700 flex flex-row p-8">
             <div className="text-white font-quality flex flex-col flex-grow justify-start items-start">
-            <h1 className=" font-bold text-lg">Phone Number</h1>
+            <h1 className=" font-bold text-lg">Contacts</h1>
             <a href="tel:2812076067">
-            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">(281) 207 6067</h2>
+            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">Phone: (281) 207 6067</h2>
             </a>
             <a href="tel:2812076071">
-            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">(281) 207 6071</h2>
+            <h2 className="font-thin text-md hover:cursor-pointer hover:text-empireblue">Fax: (281) 207 6071</h2>
             </a>
             </div>
             <div className="text-white font-quality flex flex-col flex-grow justify-start items-start">
