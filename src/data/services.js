@@ -2,7 +2,7 @@ export default [
     {
         "title": "Nursing Services",
         "desc": "Our registered nurses directly address the care and comfort levels of patients and conduct interventions according to the plan of care. They perform a broad range of essential functions that make everything succeed. This includes pain and symptom control, emotional support, dietary planning, health screening and evaluation, monitoring disease progression, and several other nursing procedures. We make consistent assessments and work closely with the patient to provide additional care whenever needed 24 hours a day, 7 days a week.",
-        "imgUrl": "/assets/stethoscope.jpg",
+        "imgUrl": "/assets/ners.webp",
         "cardkey": "nursing",
         "id":"1",
     },
@@ -14,14 +14,14 @@ export default [
         "id":"2",
     },
     {
-        "title": "Pain & Symptoms Management",
-        "desc": "We can develop and coordinate a plan of care concerning the pain and symptom management of the patient. We offer a special kind of care that anticipates assisting with symptom control and medication changes in the plan of care for patients whenever needed. Our care has programs that tenderly adjust medications as symptoms and pain occur. Care will continue for the duration it is desired and necessary. This is carefully facilitated by our specialist teams for superb pain-free management. Included here is an education on the expected course of the condition and your subsequent options for care.",
-        "imgUrl": "/assets/pulse oximeter.png",
+        "title": "24-Hour Patient Line",
+        "desc": "We provide a dedicated 24-hour patient line, ensuring continuous support and immediate response to your healthcare needs. Our round-the-clock service is designed to offer immediate assistance, addressing concerns and adjusting care plans in real-time. With our specialized team on standby, patients can expect prompt intervention, whether it's for medication adjustments, symptom alleviation, or urgent inquiries. Our commitment is to ensure uninterrupted care, providing insights into the progression of the condition and guiding you through every available care option. Trust in our 24-hour patient line for consistent, comprehensive, and compassionate care at all hours.",
+        "imgUrl": "/assets/hotline.png",
         "cardkey": "Pain&SymptomsManagement",
         "id":"3",
     },
     {
-        "title": "Counseling",
+        "title": "Spiritual Support",
         "desc": "Our counselors are trained to help you get through these demanding times. Depending on your preferences or beliefs about religion, a priest, rabbi, or minister may be made available if you don’t have a spiritual counselor. For patients with nutritional difficulties, our dietitians are ready to help. They can recommend food and drinks which may be easier to tolerate or suggest food preparations which may also be helpful. If you are experiencing grief after the loss of your loved one, our bereavement counselors can help you develop coping strategies to deal with your grief in a healthy manner.",
         "imgUrl": "/assets/counseling.webp",
         "cardkey": "counseling",

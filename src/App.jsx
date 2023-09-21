@@ -117,7 +117,7 @@ function App() {
        <div>
         <Outlet />
        </div>
-       <div className="w-full h-auto bg-gray-700 flex flex-row p-8">
+       <div className="w-full h-auto bg-[#5ead5e] flex flex-row p-8">
             <div className="text-white font-quality flex flex-col flex-grow justify-start items-start">
             <h1 className=" font-bold text-lg">Contacts</h1>
             <a href="tel:2812076067">

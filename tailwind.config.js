@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        qualitydark: "#d3768d",
+        qualitydark: "#5ead5e",
         quality: "#bc9c21",
       },
       fontFamily: {

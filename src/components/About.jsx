@@ -10,7 +10,7 @@ function About(){
                             Our purpose is to provide compassionate comfort care to our patients and their families through our quality team of hospice professionals.
                         </span>
                     </div>
-                    <div className="absolute w-screen h-[40vh] md:h-[50vh] bg-qualitydark opacity-80 z-10"></div>
+                    <div className="absolute w-screen h-[40vh] md:h-[50vh] bg-gray-500 opacity-80 z-10"></div>
                     <img 
                         src="/assets/wheelchair.jpg" 
                         alt="man in wheelchair recieves help" 
@@ -19,7 +19,31 @@ function About(){
                 <div className="w-screen h-auto flex flex-col justify-center items-center">
                 <div className="w-10/12 h-auto font-quality flex flex-col gap-6 py-12">
                     <h1 className=" text-2xl font-bold text-quality">Our Team</h1>
-                    <span>Serving patients across all of Texas, our services are provided by a team of trained and experienced professionals, including physicians, nurses, counselors, social workers, therapists, home health aides and volunteers. We are available to offer assistance and support to patients and their families 24 hours a day, 7 days a week.</span>
+                    <span>At Quality Life Hospice,
+                            we pride ourselves on
+                            being more than just a
+                            healthcare provider; we
+                            are a trusted companion in
+                            your life journey.
+                            Our team of experienced
+                            in-home hospice doctors,
+                            nurses, social workers,
+                            volunteers, and supportive
+                            caregivers are not only
+                            rigorously trained but also
+                            deeply committed to
+                            providing compassionate
+                            care that you can rely on.
+                            With us, you're not just
+                            getting assistance, you're
+                            gaining a family of
+                            professionals dedicated to
+                            your utmost well-being
+                            and comfort</span>
+                    <h1 className=" text-2xl font-bold text-quality">Why Us?</h1>
+                    <span><b>Accessibility</b>: At Quality Life Hospice, we're not just about healthcare; we're about bringing essential support services directly to your doorstep. Understanding that post-surgery or with physical disabilities, mobility can be a challenge, we've tailored our offerings to prioritize your comfort and safety. From Post-Surgical Assistance to Physical Disability Support, we ensure that you're not only taken care of but are also empowered to live a more fulfilled life.</span>
+                    <span><b>Expertise</b>:  Our team comprises of experienced and highly-trained nurses and caregivers who are dedicated to providing unparalleled care. We focus on both the patient and their families, ensuring that each day is not just about survival but thriving. Our comprehensive approach goes beyond mere assistance; it's about ensuring our patients and their families lead happy and fulfilling lives.</span>
+                    <span>Together, we are revolutionizing patient care, offering specialized, compassionate, and high-quality services that cater to the unique needs of every individual. Join us on our mission to redefine healthcare and make each day better, one patient at a time.</span>
                     <h1 className=" text-2xl font-bold text-quality">What is Hospice?</h1>
                     <span>Hospice care is a provision of compassionate care at the end of life for the terminally ill. The focus is on comfort and pain relief while maintaining the patient’s dignity and respect. Hospice also provides support for families and loved ones. It includes an individualized plan tailored to meet the needs of the patient. It includes health care, counseling, and spiritual support.</span>
                     <h1 className=" text-2xl font-bold text-quality">How Does It Work?</h1>

@@ -7,7 +7,7 @@ function Services(){
         <div className="flex flex-col">
             <div className="w-screen h-3/5 md:h-4/5">    
                 <div className="w-screen h-[45vh] md:h-[45vh] lg:h-[55vh] absolute flex flex-col items-center z-10
-                                 bg-qualitydark opacity-70">
+                                 bg-gray-500 opacity-70">
                 </div>
                 <div className="w-screen h-[45vh] md:h-[45vh] lg:h-[55vh] absolute flex flex-col justify-center items-center z-20">
                     <h1 className="text-white text-2xl md:text-3xl lg:text-3xl font-quality font-bold text-center p-4">

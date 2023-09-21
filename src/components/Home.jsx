@@ -53,7 +53,7 @@ function Home(){
             <div className="w-screen h-[90vh] md:h-[100vh] absolute flex flex-col justify-center items-center z-20">
                 <span className="text-center text-3xl md:text-5xl font-quality font-bold text-white pb-6">Care That Comes to You</span>
             </div>
-            <div className=" w-screen h-[90vh] md:h-[100vh] absolute bg-qualitydark opacity-50 z-10"></div>
+            <div className=" w-screen h-[90vh] md:h-[100vh] absolute bg-gray-500 opacity-50 z-10"></div>
             <img 
                 className="w-screen h-[90vh] md:h-[100vh] lg:h-screen object-cover overflow-auto md:overflow-hidden drop-shadow-xl"
                 src="/assets/landing.png" 
@@ -78,7 +78,7 @@ function Home(){
                     <h2 className="font-bold text-qualitydark text-3xl">Welcome to Quality Life Hospice</h2>
                     <span>We are serving in the areas across Texas. Our services are provided by a team of trained and experienced professionals. We are available to offer assistance and support to the patient and their family 24 hours a day, 7 days a week.</span>
                     <button 
-                    className="text-white bg-quality opacity-80 hover:bg-quality hover:opacity-100 rounded-md px-8 py-3" onClick={() => navigate('/About')}>
+                    className="text-white bg-qualitydark opacity-80 hover:bg-quality hover:opacity-100 rounded-md px-8 py-3" onClick={() => navigate('/About')}>
                     Learn More
                 </button>
                 </div>
